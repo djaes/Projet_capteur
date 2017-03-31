@@ -1,0 +1,19 @@
+LE Scan ...
+57:3C:D6:F0:ED:AB (unknown)
+C8:69:CD:8D:8D:45 (unknown)
+43:2C:A5:2F:EF:71 (unknown)
+43:2C:A5:2F:EF:71 (unknown)
+69:8E:C8:7E:6B:4D (unknown)
+F2:C8:C2:B3:BA:E0 (unknown)
+69:8E:C8:7E:6B:4D (unknown)
+57:3C:D6:F0:ED:AB (unknown)
+80:7A:BF:13:A9:B6 HTC BS B6BB78
+80:7A:BF:13:A9:B6 (unknown)
+65:38:EC:D4:3A:18 (unknown)
+D0:B7:02:6F:2C:51 (unknown)
+D0:B7:02:6F:2C:51 Charge HR
+C8:69:CD:8D:8D:45 (unknown)
+80:7A:BF:13:AB:75 HTC BS 752F94
+C4:C9:06:CA:3F:4D (unknown)
+6A:87:BB:9E:34:08 (unknown)
+65:38:EC:D4:3A:18 (unknown)
